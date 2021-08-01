@@ -4,7 +4,7 @@
 
 ### Problem Statement
 
-Using your knowledge of amplifier circuits, design an AM receiver system, consisting of active filter, envelope detection, baseband amplifier, and output buffer circuits. Use NI Multisim to simulate the design.
+Using knowledge of amplifier circuits, iteratively design an AM receiver system, consisting of active filter, envelope detection, baseband amplifier, and output buffer circuits. Use NI Multisim to simulate the design, and use the project questions provided to drive developement and record results.
 
 ### Project Objective
 
@@ -24,8 +24,15 @@ The technologies used include:
 
 In order to test and simulate the project, NI Multisim 14 is needed.
 
+Then, simply open file ___ in folder Simulation. Press the go button and look at the oscilliscope attached to the output. It should resemble a simusoidal wave.
+
 ## Possible Improvements
 
 Possible improvements for this project include:
 
 N/A
+
+## Notes
+1. The Document folder contains the project report, which summarizes all project questions and answers.
+2. The Simulation folder contains all project files corresponding to each project question in the project report.
+3. A project overview explaining the design can be found here: https://www.youtube.com/watch?v=G09PH6DSO7E.
