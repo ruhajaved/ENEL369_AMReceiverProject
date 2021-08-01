@@ -24,7 +24,7 @@ The technologies used include:
 
 In order to test and simulate the project, NI Multisim 14 is needed.
 
-Then, simply open file ___ in folder Simulation. Press the go button and look at the oscilliscope attached to the output. It should resemble a simusoidal wave.
+Then, simply open file Proj-C-1.ms14 in the Simulation folder. Press the go button and look at the oscilliscope attached to the output. It should resemble a simusoidal wave.
 
 ## Possible Improvements
 
